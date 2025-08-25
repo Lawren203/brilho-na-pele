@@ -1,6 +1,4 @@
-# brilho-na-pele
-
-
+💄 Brilho na Pele - Loja de Maquiagem
 📌 Escopo
 O projeto Brilho na Pele é um site de venda de maquiagens, onde os usuários poderão visualizar produtos, pesquisar informações e pedidos simulados.
 O objetivo é oferecer uma experiência simples, bonita e funcional, utilizando consumo de APIs para informações complementares (ex: CEP e produtos).
@@ -31,4 +29,3 @@ ViaCEP → preenchimento automático de endereço no checkout.
 Os wireframes estão disponíveis na pasta /canva.
 
 https://www.canva.com/design/DAGw0TmVnL8/NzDvVbW9fQiscRLGjWV9-w/edit
-
